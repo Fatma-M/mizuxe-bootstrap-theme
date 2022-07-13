@@ -1,2 +1,1 @@
-# mizuxe-bootstrap-theme
-Bootstrap Theme
+## https://mizuxetheme.netlify.app/
